@@ -8,17 +8,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Start Here'
+    - title: 'Work'
       url: '/'
-    - title: 'Technical Blog'
+    - title: 'Technical Writing'
       url: '/blog/'
-    - title: 'About Me'
+    - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Copyright © 2021 Erika Pullum, all rights reserved
 
 hero_settings:
   overlay_opacity: 0.8

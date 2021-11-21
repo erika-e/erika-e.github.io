@@ -1,3 +1,9 @@
+# Contents of erikapullum.com
+
+Website contents are © 2021 Erika Pullum, all rights reserved. Images used in this site are original content or licensed for this use.
+
+This website is built with a theme purchased from [Jekyll Themes](http://jekyllthemes.io). See below for theme license and use information.
+
 # Personal by JekyllThemes.io – License
 
 This license grants you, the purchaser, an ongoing, non-exclusive, worldwide license to make use of the theme. Read the rest of this license for the details that apply to your use of the theme.
